@@ -1,0 +1,5 @@
+{
+    "name": "yasirsiddiqui/php-google-cloud-print",
+    "description": "PHP class to print documents using Google Cloud Print using OAuth.",
+    "homepage": "https://github.com/yasirsiddiqui/php-google-cloud-print"
+}
